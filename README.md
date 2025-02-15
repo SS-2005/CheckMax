@@ -17,7 +17,8 @@ A ML Model that will check the true knowledge of a user on his selected topic,Us
 ## Future Scope:
 * Adds ability to extract text from handwritten Notes efficiently
 * Adds MCQ question
-* Increase Accuracy of model of AI-Gen text, Plagarism Check report ,Similarity Check 
+* Increase Accuracy of model of AI-Gen text, Plagarism Check report ,Similarity Check
+* Analysing Diagrams and Figures in the uploaded File (Current version just focues on the text)
 
 ## Process:
 * Run `Main.ipynb` then 
