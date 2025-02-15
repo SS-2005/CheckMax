@@ -1,0 +1,5 @@
+question,user_answer,correct_answer,time_taken,similarity_score,marks,ai_generated_probability,plagiarism_probability
+What is the difference between a frame by frame and a motion capture?,idk,Motion capture is a technique in computer graphics that uses motion capture to capture the motion of an object or character,35.68,3.11,0.16,0.0,3.11
+What is the main purpose of this module?,idk,To introduce the concepts of Visible Surface Detection and Animation,7.72,5.89,0.29,0.0,5.89
+Which of the following is the best way to remove hidden surface problem?,Visible surface detection or hidden surface removal,Back face Detection Method,50.43,44.53,2.23,66.94,44.53
+What is the main purpose of a keyframe?,To define the starting and ending points of an object or character's movement or pose,To define the starting and ending points of an object or character's movement or pose,35.18,100.0,5.0,65.45,100.0
