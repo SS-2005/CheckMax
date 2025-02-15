@@ -1,5 +1,5 @@
 # CheckMax
-A website portal that will check the true knowledge of a user on his selected topic
+A ML Model that will check the true knowledge of a user on his selected topic
 
 ## Basic Features:
 * Upload A notes file
@@ -15,7 +15,12 @@ A website portal that will check the true knowledge of a user on his selected to
 * Thus, Checks the true potential of the user
 
 ## Process:
-Upload the file and then answer the questions based on your knownledge then it calculates marks and gives valuable insights for the same
+* Run `Main.ipynb` then 
+* Upload the file
+* Answer the questions based on your knownledge
+* Marks Display
+* AI-generation and plagarism check Report for each question
+* Valuable insights for with help of grpah
 
 ## Pre-requisits: 
 * Install python and all required libraries in `requirement.txt` file 
